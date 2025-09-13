@@ -2,6 +2,9 @@
 
 A stunning, interactive guide to optimal NIC settings for gaming and streaming. This single-page application provides comprehensive network configuration recommendations with beautiful animations and visual design.
 
+<img src="./preview.png" alt="Preview" width="800">
+
+
 ## 🚀 Features
 
 - **Stunning Visual Design**: Modern dark theme with gradient accents perfect for gaming/streaming aesthetics
