@@ -87,9 +87,9 @@ This project is open source and available under the MIT License.
 Ravi Sai Vigneswara
 Network Optimization Specialist
 
-GitHub: @yourusername
+GitHub: @ravisairockey
 
-Website: yourwebsite.com
+Website:(https://ravisairockey.github.io/Low-latency-GamingGuide/)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
