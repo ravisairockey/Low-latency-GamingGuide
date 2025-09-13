@@ -2,23 +2,10 @@
 
 A stunning, interactive guide to optimal NIC settings for gaming and streaming. This single-page application provides comprehensive network configuration recommendations with beautiful animations and visual design.
 
-![Network Optimization Guide](https://img.shields.io/badge/Network-Gaming%20%2B%20Streaming-blueviolet) 
-![Year](https://img.shields.io/badge/2025-Latest%20Recommendations-success) 
-![Author](https://img.shields.io/badge/By-Ravi%20Sai%20Vigneswara-important)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![Preview](./preview.png)
-
 ## 🚀 Features
 
 - **Stunning Visual Design**: Modern dark theme with gradient accents perfect for gaming/streaming aesthetics
-- **Interactive Animations**: 
-  - Data packets moving across the screen
-  - Glowing text effects
-  - Fade-in animations on scroll
-  - Hover effects on interactive elements
+- **Interactive Animations**: Data packets moving across the screen, glowing text effects, fade-in animations on scroll, hover effects
 - **Dual View Options**: Toggle between table view and card view
 - **Responsive Design**: Works perfectly on mobile, tablet, and desktop
 - **Visual Status Indicators**: Color-coded settings (green for enabled, red for disabled)
@@ -34,84 +21,89 @@ A stunning, interactive guide to optimal NIC settings for gaming and streaming. 
 
 ## 🛠️ Installation
 
-Simply download the `index.html` file and open it in any modern browser. No additional dependencies required!
+Simply download the index.html file and open it in any modern browser. No additional dependencies required!
 
-```bash
-# Clone or download the repository
-git clone https://github.com/yourusername/network-optimization-guide.git
+### Quick Start
 
-# Open the index.html file in your browser
-open index.html
-📱 Usage
-Open the guide in your browser
+1. **Download the file**:
+   - Click the index.html file on GitHub
+   - Click the "Raw" button
+   - Right-click and select "Save As" to download the HTML file
+   - Save it to your desired location
 
-Browse through the recommended settings
+2. **Open in your browser**:
+   - Double-click the downloaded index.html file
+   - Or drag and drop it into your browser window
 
-Use the toggle button to switch between table and card views
+### Using Command Line
 
-Implement the suggestions in your network adapter settings
+# Download with curl (if you have the direct URL)
+curl -O https://raw.githubusercontent.com/ravisairockey/network-optimization-guide/main/index.html
 
-Check out the bonus tips for additional optimization ideas
+# Or using wget
+wget https://raw.githubusercontent.com/ravisairockey/network-optimization-guide/main/index.html
 
-🎨 Customization
+## 📱 Usage
+
+1. Open the guide in your browser
+2. Browse through the recommended settings
+3. Use the toggle button to switch between table and card views
+4. Implement the suggestions in your network adapter settings
+5. Check out the bonus tips for additional optimization ideas
+
+## 🎨 Customization
+
 The design is built with pure HTML, CSS, and JavaScript. Easily customize by modifying:
+- Color scheme in the :root CSS variables
+- Animation timing in the CSS keyframes
+- Content in the HTML structure
 
-Color scheme in the :root CSS variables
+## 🌟 Bonus Tips
 
-Animation timing in the CSS keyframes
-
-Content in the HTML structure
-
-🌟 Bonus Tips
 The guide also includes essential bonus tips such as:
+- Updating network drivers from manufacturer websites
+- Using Ethernet over Wi-Fi for stable connections
+- DNS optimization with Cloudflare or Google DNS
+- And more...
 
-Updating network drivers from manufacturer websites
+## 🗂️ Project Structure
 
-Using Ethernet over Wi-Fi for stable connections
-
-DNS optimization with Cloudflare or Google DNS
-
-And more...
-
-🗂️ Project Structure
-text
 network-optimization-guide/
 │
 ├── index.html          # Main HTML file with all content and styling
 ├── README.md           # This documentation file
 └── (optional assets directory for future use)
-📄 License
+
+## 📄 License
+
 This project is open source and available under the MIT License.
 
-👨‍💻 Author
-Ravi Sai Vigneswara
+## 👨‍💻 Author
+
+**Ravi Sai Vigneswara**  
 Network Optimization Specialist
 
-GitHub: @ravisairockey
+- GitHub: @ravisairockey
+- Website: https://ravisairockey.github.io/Low-latency-GamingGuide
 
-Website:[https://ravisairockey.github.io/Low-latency-GamingGuide]
+## 🤝 Contributing
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+Contributions, issues, and feature requests are welcome!
 
-Fork the Project
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
+## 📞 Support
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📞 Support
 If you have any questions about your specific network setup or need further tuning advice, don't hesitate to reach out!
 
-🙏 Acknowledgments
-Icons by Font Awesome
+## 🙏 Acknowledgments
 
-Fonts by Google Fonts
-
-Inspiration from various network optimization communities
+- Icons by Font Awesome
+- Fonts by Google Fonts
+- Inspiration from various network optimization communities
 
 ⭐ Star this repo if you found it helpful!
