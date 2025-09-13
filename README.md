@@ -9,7 +9,7 @@ A stunning, interactive guide to optimal NIC settings for gaming and streaming. 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![Preview](https://via.placeholder.com/800x400/6e44ff/ffffff?text=Network+Optimization+Guide+Preview)
+![Preview](./preview.png)
 
 ## 🚀 Features
 
